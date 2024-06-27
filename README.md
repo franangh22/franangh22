@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" style="border-radius:15px;" height="150" src="avatar_withfondo.png"  />
+<img align="right" border-radius="15px" height="150" src="avatar_withfondo.png"  />
 
 ###
 
