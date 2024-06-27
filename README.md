@@ -4,9 +4,11 @@
 
 ###
 
-<img align="right" border-radius="15px" height="150" src="avatar_withfondo.png"  />
+<img align="right" height="150" src="avatar_withfondo.png"  />
 
 ###
+
+<p> Habilidades </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
