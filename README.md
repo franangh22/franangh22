@@ -103,6 +103,12 @@
 
 ###
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franangh22&theme=modern-lilac2&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+###
+
+###
+
 <p align="left">👩‍💻  Sobre mí<br><br>- 📍 Rosario, Santa Fe. 🇦🇷 <br>- ⚡ Analista de Sistemas.<br>-  📚 ISI - UTN.<br>-  📚 Analista Funcional - ISEI4030</p>
 
 ###
