@@ -113,6 +113,8 @@
 
 ###
 
+<div align="center"> 
+
 ## 👩‍💻 Sobre mí
 
 - 📍 Rosario, Santa Fe. 🇦🇷
@@ -122,5 +124,7 @@
 - 📚 ISI - UTN.
 
 - 📚 Analista Funcional - <b>ISEI4030.</b>
+
+</div>
 
 ###
